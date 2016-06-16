@@ -3,6 +3,11 @@ eval "$(rbenv init -)"
 
 # App Launch Aliases
 alias s='open -a "Sublime Text"'
+alias v='vim'
+
+# Rails shortcuts
+alias rs='rails server'
+alias rc='rails console'
 
 # Repo Path Aliases
 alias mc="cd ~/Projects/mc"

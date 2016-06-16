@@ -11,3 +11,13 @@ set tabstop=2
 set shiftwidth=2
 
 set autoindent
+
+set backupdir=~/.vim/backup//
+set directory=~/.vim/swap//
+set undodir=~/.vim/undo//
+
+set number
+
+execute pathogen#infect()
+
+filetype plugin on
