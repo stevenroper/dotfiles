@@ -1,0 +1,25 @@
+{
+    "workbench.startupEditor": "newUntitledFile",
+    "workbench.colorTheme": "Base16 Tomorrow Dark",
+    "window.zoomLevel": 0,
+    "files.associations": {
+        "*.css": "css",
+        "*.js": "javascriptreact",
+    },
+    "editor.tabSize": 2,
+    "editor.insertSpaces": true,
+    "editor.detectIndentation": false,
+    "editor.quickSuggestions": {
+      "other": true,
+      "comments": false,
+      "strings": true
+    },
+    "eslint.run": "onSave",
+    "emmet.triggerExpansionOnTab": true,
+    "emmet.includeLanguages": {
+      "javascript": "javascriptreact"
+    },
+    "workbench.statusBar.feedback.visible": false,
+    "editor.minimap.enabled": false,
+    "breadcrumbs.enabled": false,
+  }
